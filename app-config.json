@@ -1,0 +1,13 @@
+{
+  "app_name": "Bida Reels",
+  "version": "1.1",
+  "size": "13 MB",
+  "downloads": "10K+",
+  "last_updated": "September 24, 2026",
+  "apk_url": "",
+  "whats_new": [
+    "Added smoother episode unlocking with rewarded ads.",
+    "Improved player controls, bottom sheets, and episode navigation.",
+    "Enhanced provider loading, search, subtitles, and streaming stability."
+  ]
+}
