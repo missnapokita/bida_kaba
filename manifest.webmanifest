@@ -1,0 +1,12 @@
+{
+  "name": "Bida Reels",
+  "short_name": "BidaReels",
+  "description": "Official Bida Reels APK download website.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#080808",
+  "theme_color": "#ff8a00",
+  "icons": [
+    { "src": "assets/icons/app-icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
